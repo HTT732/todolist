@@ -1,0 +1,23 @@
+/*body {
+	min-height: 100vh;
+	background: #536976;
+	background: -webkit-linear-gradient(to right, #292E49, #536976); 
+	background: linear-gradient(to right, #292E49, #536976); 
+}*/
+
+#content {
+	/*border: 1px solid #000;*/
+	padding: 10px;
+}
+
+#content .edit-btn,
+#content .delete-btn {
+	width: 40px;
+}
+
+#content .work-time {
+	font-size: 14px;
+}
+.card-footer {
+	background: 0;
+}
